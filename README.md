@@ -7,5 +7,5 @@
 pip install pandas
 
 ## 使用方法
-将非小酋上下载的excel放到和转换py文件同级目录，运行python文件
+运行python文件，在选择框中选择存放非小酋抽卡记录excel的目录
 脚本会自动读取目录下所有excel文件并转换成uigf格式的json文件
